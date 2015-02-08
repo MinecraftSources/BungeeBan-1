@@ -1,0 +1,4 @@
+name: BungeeBan
+main: net.craftminecraft.bungee.bungeeban.BungeeBan
+version: ${pom.version}-${build.number}
+author: roblabla
