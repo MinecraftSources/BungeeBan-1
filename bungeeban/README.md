@@ -2,7 +2,7 @@
 BungeeBan is the first and only BungeeCord banning solution
 
 ## Latest Version
-Latest Recommended Build **0.0.3**
+Latest Recommended Build **1.4.1**
 
 ## Commands
 \<Required\> [Optional]
